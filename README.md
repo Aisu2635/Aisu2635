@@ -49,4 +49,7 @@
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.vectorlogo.zone/logos/kali/images/4f107199-98a3-43c2-9d1f-19af3082b59b.svg" alt="kali linux" width="40" height="40"/> 
   </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="kali linux" width="40" height="40"/> 
+  </a> 
 </p>
