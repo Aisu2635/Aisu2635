@@ -1,4 +1,4 @@
-<h2 align="center">Stay Hydrated !<img src="https://media.gifdb.com/8-bit-pikachu-hello-sticker-lg5704c94zm45g8r.gif"
+<h2 align="center">Stay Hydrated !<img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/69.gif"
          alt="Pikachu"
          height="45"
          width="45" />
