@@ -1,4 +1,4 @@
-<h2 align="center">Stay Hydrated !<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAwOTY5NDEsIm5iZiI6MTcxMDA5NjY0MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEwVDE4NTA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkNTc2YTgzM2VjZTczYjY2Y2M1MWFlYTNmZjNhODA5NGRmMGFiMzE5ZTI2NjM1OWMxNjI4MDU5NjY0OWEzYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ADaa3TZL2tDgz-SXfYCbYLhEm5DNmq8XHrFfmmgTYIw"
+<h2 align="center">Stay Hydrated !<img src="https://media.gifdb.com/8-bit-pikachu-hello-sticker-lg5704c94zm45g8r.gif"
          alt="Pikachu"
          height="45"
          width="45" />
